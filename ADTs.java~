@@ -4,6 +4,9 @@ public class ADTs
   {
     
   }
-  
+  public void pop(Stack st, String x)
+  {
+    
+  }
   
 }
